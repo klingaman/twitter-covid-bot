@@ -1,8 +1,7 @@
 # covid19-data-bot
+
 A Twitter bot which posts the latest COVID-19 virus statistics. 
-
-
-
+{: .alert .alert-gitlab-blue}
 
 Example:
 
