@@ -1,4 +1,4 @@
-## COVID-19 Data Bot
+# Twitter Covid-19 Bot
 <h6>A Twitter bot which posts the latest COVID-19 virus statistics.</h6>
 
 <br>
