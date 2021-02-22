@@ -15,7 +15,7 @@ def twitter():
     api = tweepy.API(auth) 
     print("\n[STARTING]")
     count = -1
-    l = ["","",""]
+    l = ["","",""] 
     while True:
         count += 1
         d = ["","",""]
